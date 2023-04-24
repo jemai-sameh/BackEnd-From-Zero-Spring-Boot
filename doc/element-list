@@ -1,0 +1,10 @@
+tn.teams.fromzero
+tn.teams.fromzero.controller
+tn.teams.fromzero.dto
+tn.teams.fromzero.entities
+tn.teams.fromzero.exceptions
+tn.teams.fromzero.handlers
+tn.teams.fromzero.repositories
+tn.teams.fromzero.services
+tn.teams.fromzero.ServicesImpl
+tn.teams.fromzero.validations
